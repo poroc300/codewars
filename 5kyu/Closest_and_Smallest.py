@@ -1,7 +1,7 @@
 #Problem "Closest and Smallest"
 #level: 5kyu
 #language: Python
-#link: https://www.codewars.com/kata/5544c7a5cb454edb3c000047
+#link: https://www.codewars.com/kata/5868b2de442e3fb2bb000119
 ####################################################### INSTRUCTIONS ######################################################################
 #Input
 #
